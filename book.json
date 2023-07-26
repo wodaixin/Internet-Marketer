@@ -1,0 +1,11 @@
+{
+    "title": "GitBook",
+    "author": "Mr.B",
+    "description": "这是一个读书笔记",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": [
+        "highlight",
+        "livereload"
+    ]
+}
