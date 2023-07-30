@@ -5,3 +5,5 @@
 * [常用自媒体](about/self-media.md)
 * [抖音](douyin/douyin.md)
 * [拍摄](edit/shoot.md)
+* [脚本](script/script.md)
+* [直播](live-stream/live.md)
