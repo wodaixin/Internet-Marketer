@@ -1,6 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 互联网营销师
 
-文档记录了互联网营销师学习的基础知识，内容包含 <mark style="color:rgb(207, 34, 46);background-color:rgb(245, 247, 249);">**运营** **拍摄** **剪辑** **直播** **文案**</mark>等内容,涉及<mark style="color:rgb(207, 34, 46);background-color:rgb(245, 247, 249);">**抖音** **小红书**</mark>等平台。
+文档记录了互联网营销师学习的基础知识，内容包含 **运营** **拍摄** **剪辑** **直播** **文案**等内容,涉及**抖音** **小红书**等平台。
 
 在此，特别感谢 况老师 的辛苦付出，为大家梳理文档。
 
@@ -14,14 +28,10 @@
 
 Copyright 2023 wodaixin
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-    https://www.apache.org/licenses/LICENSE-2.0
+```
+https://www.apache.org/licenses/LICENSE-2.0
+```
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
