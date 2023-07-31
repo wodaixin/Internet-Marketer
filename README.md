@@ -8,4 +8,4 @@
 
 项目地址：[https://github.com/wodaixin/Internet-Marketer.git](https://github.com/wodaixin/Internet-Marketer.git)
 
-本地搭建预览： [https://github.com/wodaixin/gitbook](https://github.com/wodaixin/gitbook)
+本地搭建预览：[https://github.com/wodaixin/gitbook](https://github.com/wodaixin/gitbook)
