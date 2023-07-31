@@ -1,1 +1,0 @@
-<mark style="color:rgb(207, 34, 46);background-color:rgb(245, 247, 249);">
