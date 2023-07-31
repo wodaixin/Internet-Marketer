@@ -7,8 +7,5 @@
     "plugins": [
         "highlight",
         "livereload"
-    ],
-    "variables": {
-        "hello": "Hello World"
-    }
+    ]
 }
