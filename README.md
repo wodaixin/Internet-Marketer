@@ -4,7 +4,7 @@
 
 在此，特别感谢 况老师 的辛苦付出，为大家梳理文档。
 
-文档将持续更新相关内容，并在 [GitHub](https://github.com) 开源，感兴趣的朋友可以参与添加、修改、编辑、校验。
+文档将持续更新相关内容，并在 [GitHub](https://github.com) 开源，感兴趣的朋友可参与添加、修改、校验。
 
 项目地址：[https://github.com/wodaixin/Internet-Marketer.git](https://github.com/wodaixin/Internet-Marketer.git)
 
