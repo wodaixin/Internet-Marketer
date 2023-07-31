@@ -1,6 +1,6 @@
 # 互联网营销师
 
-文档记录了互联网营销师学习的基础知识，内容包含 <mark style="color:orange;background-color:purple;">***运营*** ***拍摄*** ***剪辑*** ***直播*** ***文案*** 等内容,涉及 ***抖音*** ***小红书*** </mark> 等平台。
+文档记录了互联网营销师学习的基础知识，内容包含 <mark style="color:orange;background-color:purple;">运营、拍摄、剪辑、直播、文案</mark>等内容,涉及<mark style="color:orange;background-color:purple;">抖音、小红书</mark>等平台。
 
 在此，特别感谢 况老师 的辛苦付出，为大家梳理文档。
 
@@ -13,7 +13,7 @@
 ## License
 
 Copyright 2023 wodaixin
- 
+
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
