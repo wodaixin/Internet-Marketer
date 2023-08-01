@@ -281,7 +281,7 @@
 
 ## 直播间参考数据表
 
-![Alt text](/img/image-3.png)
+![直播间参考数据表](/img/image-3.png)
 
 ## 直播带货-货
 
@@ -341,7 +341,7 @@
    * 点赞活动
    * 截屏活动
 
-![Alt text](/img/image-4.png)
+![时间内容](/img/image-4.png)
 
 ## 开直播需要注意哪些问题
 
