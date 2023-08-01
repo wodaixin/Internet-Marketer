@@ -1,8 +1,25 @@
 # 资源下载
 
-* [常用主题IP系列](/file/常用主题IP系列.xlsx)
-* [短视频分镜脚本](/file/短视频分镜脚本.xlsx)
-* [短视频账号规划表](/file/短视频账号规划表.xlsx)
-* [违禁词 抖音直播带货违禁词大全](/file/违禁词-抖音直播带货违禁词大全.pdf)
-* [直播复盘](/file/直播复盘.docx)
-* [直播间每日复盘表](/file/直播间每日复盘表.xlsx)
+{% file src="../.gitbook/assets/Common theme IP series.xlsx" %}
+常用主题 IP
+{% endfile %}
+
+{% file src="../.gitbook/assets/Daily review table of the live broadcast room.xlsx" %}
+直播间每日复盘表
+{% endfile %}
+
+{% file src="../.gitbook/assets/Live replay.docx" %}
+直播盘表
+{% endfile %}
+
+{% file src="../.gitbook/assets/Prohibited Words.pdf" %}
+违禁词
+{% endfile %}
+
+{% file src="../.gitbook/assets/Short Video Account Planning Form.xlsx" %}
+短视频账号规划表
+{% endfile %}
+
+{% file src="../.gitbook/assets/Short video storyboard script.xlsx" %}
+短视频分镜脚本
+{% endfile %}
