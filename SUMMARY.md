@@ -9,6 +9,8 @@
 * [脚本](script/script.md)
 * [直播](live-stream/live.md)
 * [文案](copywriting/copywriting.md)
+* [其他板块](other/other.md)
 * [相关知识](about/README.md)
   * [互联网营销相关了解](about/internet-marketing.md)
   * [常用自媒体](about/self-media.md)
+* [资源下载](file/README.md)
