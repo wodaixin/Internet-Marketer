@@ -13,4 +13,4 @@
 * [相关知识](about/README.md)
   * [互联网营销相关了解](about/internet-marketing.md)
   * [常用自媒体](about/self-media.md)
-* [资源下载](file/README.md)
+* [资源下载](files/README.md)
