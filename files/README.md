@@ -23,3 +23,7 @@
 {% file src="../.gitbook/assets/Short video storyboard script.xlsx" %}
 短视频分镜脚本
 {% endfile %}
+
+{% file src="../.gitbook/assets/40 formulas commonly used in e-commerce live broadcast.docx" %}
+电商直播常用的40个公式
+{% endfile %}
